@@ -7,5 +7,5 @@ function draw() {
   fill("red");
   stroke("white");
   strokeWeight(15);
-  rect(100,100,200,200)
+  rect(100,100,200,200) //Denne rektangel burde være midt på skærmen :)
 }
