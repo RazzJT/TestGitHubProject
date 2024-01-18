@@ -3,5 +3,5 @@ function setup() {
 }
 
 function draw() {
-  background("yellow");
+  background("yellow"); // Baggrunds farven er ond
 }
